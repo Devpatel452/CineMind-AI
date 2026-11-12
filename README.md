@@ -98,3 +98,7 @@ GitHub: [Devpatel452](https://github.com/Devpatel452)
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
+## 📸 Project Preview
+
+![CineMind AI Home Page](home.png)
