@@ -105,3 +105,8 @@ GitHub: [Devpatel452](https://github.com/Devpatel452)
 
 ![CineMind AI Login Page](Login.png)
 
+
+
+![CineMind AI Movie Player](movie.png)
+
+
