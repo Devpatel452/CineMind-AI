@@ -102,3 +102,6 @@ GitHub: [Devpatel452](https://github.com/Devpatel452)
 ## 📸 Project Preview
 
 ![CineMind AI Home Page](home.png)
+
+![CineMind AI Login Page](login.png)
+
